@@ -1,6 +1,6 @@
 # AIRGCN
 
-this is an <Adaptive,Inductive and Rapid Graph Convolution Network> for text classification
+This is an <Adaptive,Inductive and Rapid Graph Convolution Network> for text classification
 
 ## How to replicate the result in the paper?
 
@@ -8,4 +8,4 @@ this is an <Adaptive,Inductive and Rapid Graph Convolution Network> for text cla
 2. open `add_exe.ipynb` and run the command in the notebook
 
 ## Acknowledgement
-this repo is modified based on InducT-GCN (https://github.com/usydnlp/InductTGCN).
+This repo is modified based on InducT-GCN (https://github.com/usydnlp/InductTGCN).
