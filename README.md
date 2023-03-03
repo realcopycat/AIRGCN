@@ -2,6 +2,14 @@
 
 This is an <Adaptive,Inductive and Rapid Graph Convolution Network> for text classification
 
+## Env configuration
+
+Python 3.8.5
+
+CUDA 11.0
+
+and the packages we used are listed in `requirement.txt`.
+
 ## How to replicate the result in the paper?
 
 1. unzip the dataset in `/data`
